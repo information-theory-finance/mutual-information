@@ -39,8 +39,8 @@ html_css_files   = ['css/custom.css']
 html_title       = 'Mutual Information — ITF Docs'
 html_short_title = 'mutual-information'
 
-# html_logo    = '_static/img/itf_icon.png'
-# html_favicon = '_static/img/itf_icon.png'
+html_logo    = '_static/img/itf_icon.png'
+html_favicon = '_static/img/itf_icon.png'
 
 html_context = {
     'display_github':  True,
